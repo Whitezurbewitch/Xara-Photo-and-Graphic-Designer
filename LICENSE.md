@@ -8,7 +8,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20PC-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://whitezurbewitch.github.io/Xara-Photo-and-Graphic-Designer/)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=checkmarx&logoColor=white)](https://whitezurbewitch.github.io/Xara-Photo-and-Graphic-Designer/)
 
-<img src="https://i.ibb.co/YjZ5W0b/xara-banner.png" alt="Xara Photo and Graphic Designer 2026 Preview" width="800"/>
+<img src="https://github.com/user-attachments/assets/24539a15-42e7-4633-82c9-cf0096e9b593" alt="Xara Photo and Graphic Designer 2026 Preview" width="800"/>
 
 </div>
 
