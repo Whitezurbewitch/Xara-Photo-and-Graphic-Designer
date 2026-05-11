@@ -18,7 +18,7 @@
 
 This release includes the latest features, performance enhancements, and full compatibility with Windows 11.
 
-## ✨ Key Features
+## ✨ Key Features:
 
 - **Blazing Fast Rendering** – Industry-leading redraw speed.
 - **AI Photo Tools** – One-click background removal and object erasing.
